@@ -11,7 +11,7 @@ try to give priority to bootstrap.
 can choose from between 1 - 5 fonts from the below link:
 https://kinsta.com/blog/best-google-fonts/
 
-Sufiya Nikhat:
+Sufiya Nishat:
 
 add youtube vide0
 add border
