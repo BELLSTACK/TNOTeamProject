@@ -1,6 +1,6 @@
 # TNOTeamProject
 
-Will add expectations here:
+Expectations :
 
 For Both:
 
@@ -11,7 +11,7 @@ try to give priority to bootstrap.
 can choose from between 1 - 5 fonts from the below link:
 https://kinsta.com/blog/best-google-fonts/
 
-Sufiya:
+Sufiya Nikhat:
 
 add youtube vide0
 add border
@@ -24,10 +24,10 @@ Note on coding :
         add left-border with linear gradient using two colors black and blue
         with some information on right
  
- Sofiya:
+ Sofiya Tabassum:
  
  add map here
- on the top of map<
+ on the top of map
  create simple form only for subscription
  add copyright and social media
 
