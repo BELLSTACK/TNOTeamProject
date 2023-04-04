@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Oswald&display=swap');
+
+
 *,html{
     box-sizing: border-box;
 }
@@ -61,3 +65,84 @@ footer{
     height:550px;
     background: rgb(228, 226, 236);
 }
+
+/* for Sofiya Tabassum */
+.siteFooter {
+    width:80%;
+    height:450px;
+    align-items: center;
+   
+}
+h4{
+    color: #8b6b3e;
+    margin-bottom:10px;
+    text-align:left;
+    padding-top:5px;
+    margin-left:200px;
+    font-size:20px;
+   
+
+}
+
+iframe {
+    height: 470px;
+    width:205vh;
+    margin-left:30px;
+    background-size: cover;
+   
+}
+.subscriptionForm{
+    text-align:center;
+    border:1px solid black;
+    margin-left:1000px;
+    padding:10px 35px 10px 25px;
+    bottom:285px;
+    position: absolute;
+    background-color: #f0dcdc;
+
+
+}
+.subscriptionForm > label{
+    font-size:20px;
+    padding-right:10px;
+}
+.subscriptionForm > input[type='Email'], textarea{
+    width:100%;
+    font-size:10px;
+    margin:15px;
+
+}
+
+.subscriptionForm > button{
+    margin-left:15px;
+    background-color: #b6e2ca;
+    font-size:15px;
+}
+
+.title{
+    color: #232324;
+    font-size:30px;
+    text-align: right;
+    top:150px;
+    position: absolute;
+    margin-left:1045px;
+    font-family: 'Lato', sans-serif;
+    
+}
+.slist{
+    position: absolute;
+    top:165px;
+    margin-left: 200px;
+    padding:15px;
+    font-size:30px;
+    color: rgb(121, 64, 150);
+    font-family: 'Oswald', sans-serif;
+    
+}
+/* end of sofiya Tabassum changes */
+
+/* for Sufiya Nishat */
+
+
+
+/* end of sufiya Nishat changes */
