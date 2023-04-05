@@ -11,6 +11,9 @@ try to give priority to bootstrap.
 can choose from between 1 - 5 fonts from the below link:
 https://kinsta.com/blog/best-google-fonts/
 
+Bootstrap 5 example links:
+https://getbootstrap.com/docs/5.0/examples/
+
 Sufiya Nishat:
 
 add youtube vide0
@@ -39,3 +42,5 @@ Note on coding :
        
        
  this change was made by SufiyaN
+ this change was made by SofiyaT
+ 
