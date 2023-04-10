@@ -111,21 +111,21 @@ footer{
 }
 
 iframe {
-    margin-top:40px;
-    height: 470px;
+    margin-top:30px;
+    height: 485px;
     width:205vh;
-    margin-left:30px;
+    margin-left:25px;
     background-size: cover;
    
 }
 .subscriptionForm{
     text-align:center;
-    border:1px solid black;
     margin-left:1000px;
     padding:10px 35px 10px 25px;
-    bottom:285px;
+    bottom:375px;
     position: absolute;
-    background-color: #f0dcdc;
+    background-color: rgba(226, 199, 146, 0.3);
+    box-shadow: 10px 10px 7px rgb(164, 138, 86);
 }
 .subscriptionForm > label{
     font-size:20px;
@@ -133,13 +133,12 @@ iframe {
 }
 .subscriptionForm > input[type='Email'], textarea{
     width:100%;
-    font-size:10px;
-    margin:15px;
+    font-size:15px;
+    margin:20px;
 }
 
 .subscriptionForm > button{
     margin-left:15px;
-    background-color: #b6e2ca;
     font-size:15px;
 }
 
@@ -147,7 +146,7 @@ iframe {
     color: #232324;
     font-size:30px;
     text-align: right;
-    top:150px;
+    top:70px;
     position: absolute;
     margin-left:1045px;
     font-family: 'Lato', sans-serif;
@@ -155,11 +154,11 @@ iframe {
 }
 .slist{
     position: absolute;
-    top:165px;
-    margin-left: 200px;
+    top:180px;
+    margin-left:1090px;
     padding:15px;
     font-size:30px;
-    color: rgb(121, 64, 150);
+    color: rgb(162, 21, 21);
     font-family: 'Oswald', sans-serif;
     
 }
