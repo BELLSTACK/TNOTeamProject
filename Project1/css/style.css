@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Montserrat:wght@500&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+
+*,html{
+    box-sizing: border-box;
+}
+body{
+    
+    background-color: rgb(242, 244, 245);
+}
+.box{
+    position: relative;
+    width:100%;
+    height: 600px;
+    padding:auto;
+    margin: auto;
+    overflow: hidden;
+}
+
+.box:nth-child(odd){
+    background-color: rgb(228, 242, 252);
+}
+
+/* main settings start */
+main{
+    position: relative;
+    height:900px ;
+    width:100%;
+    background-color:rgb(237, 237, 245);
+    border-style:ridge; 
+    border-width:5px; 
+    border-color: rgb(165, 187, 238);
+}
+.circular--landscape { 
+    display: inline-block; 
+    position: relative; 
+    width: 350px; 
+    height: 350px; 
+    overflow: hidden; 
+    border-radius:50%;
+    margin-left:550px; 
+    box-shadow: 10px 10px 5px rgb(166, 180, 207);
+   
+}
+.circular--landscape img { 
+    width:100%; 
+    height:100%; 
+    /* margin-bottom: -50px;  */
+}
+.Description{
+    font-size:15px;
+    font-family:'Open Sans', sans-serif;
+}
+
+footer{
+    position:relative;
+    width: 100%;
+    height:550px;
+    background: rgb(228, 226, 236);
+}
+
+/* for Sofiya Tabassum */
+
+.siteFooter {
+    width:80%;
+    height:475px;
+    align-items: center;
+}
+
+.copyright{
+    text-align: center;
+    position:absolute;
+    bottom:50px;
+    margin-left:600px;
+    font-size:30px;
+    font-family:'Montserrat', sans-serif;
+    color: rgb(99, 62, 5);
+}
+.fa{
+    font-size:15px;
+    padding:5px;
+    width:20px;
+    text-decoration:none;
+}
+.fa-twitter{
+    color:white;
+    background-color: rgb(118, 186, 235);
+    box-sizing:content-box;
+}
+.fa-pinterest{
+    background-color: rgb(143, 10, 10);
+    color: white;
+    box-sizing: content-box;
+}
+.fa-instagram{
+    color: white;
+    background-image: linear-gradient(#800080, #c84ba7, red, yellow);
+    box-sizing: content-box;
+
+}
+.fa:hover{
+    opacity:0.8;
+}
+
+iframe {
+    margin-top:30px;
+    height:485px;
+    width:205vh;
+    margin-left:25px;
+    background-size: cover;
+    margin-bottom:30px;
+   
+}
+.subscriptionForm{
+    text-align:center;
+    margin-left:1000px;
+    padding:10px 35px 10px 25px;
+    bottom:400px;
+    position: absolute;
+    background-color: rgba(226, 199, 146, 0.3);
+    box-shadow: 10px 10px 7px rgb(164, 138, 86);
+}
+.subscriptionForm > label{
+    font-size:20px;
+    padding-right:10px;
+}
+.subscriptionForm > input[type='Email'], textarea{
+    width:100%;
+    font-size:15px;
+    margin:20px;
+}
+
+.subscriptionForm > button{
+    margin-left:15px;
+    font-size:15px;
+}
+
+.title{
+    color: #232324;
+    font-size:30px;
+    text-align: right;
+    bottom:440px;
+    position: absolute;
+    margin-left:1045px;
+    font-family: 'Lato', sans-serif;
+    
+}
+.slist{
+    position: absolute;
+    bottom:170px;
+    margin-left:1090px;
+    padding:15px;
+    font-size:30px;
+    color: rgb(162, 21, 21);
+    font-family: 'Oswald', sans-serif;
+    
+}
+/* end of sofiya Tabassum changes */
+
+
