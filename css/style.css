@@ -71,7 +71,7 @@ footer{
 
 .siteFooter {
     width:80%;
-    height:450px;
+    height:500px;
     align-items: center;
 }
 
@@ -83,6 +83,8 @@ footer{
     font-size:30px;
     font-family:'Montserrat', sans-serif;
     color: rgb(99, 62, 5);
+    /* background-color:rgba(219, 205, 176, 0.6); */
+    background-color: rgb(207, 228, 107,0.7);
 }
 .fa{
     font-size:15px;
@@ -112,29 +114,32 @@ footer{
 
 iframe {
     margin-top:30px;
-    height: 485px;
-    width:205vh;
-    margin-left:25px;
+    height: 480px;
+    width:200vh;
+    margin-left:40px;
     background-size: cover;
    
 }
 .subscriptionForm{
     text-align:center;
     margin-left:1000px;
-    padding:10px 35px 10px 25px;
-    bottom:375px;
+    padding:10px 20px 10px 20px;
+    bottom:380px;
     position: absolute;
-    background-color: rgba(226, 199, 146, 0.3);
-    box-shadow: 10px 10px 7px rgb(164, 138, 86);
+    background-color: rgba(240, 226, 198, 0.5);
+
 }
 .subscriptionForm > label{
-    font-size:20px;
+    font-size:27px;
     padding-right:10px;
+    color: rgb(3, 51, 3);
+    text-shadow: 2px 2px 5px rgb(86, 131, 112);
+    font-family:'Montserrat', sans-serif ;
 }
 .subscriptionForm > input[type='Email'], textarea{
     width:100%;
-    font-size:15px;
-    margin:20px;
+    font-size:25px;
+    margin:15px;
 }
 
 .subscriptionForm > button{
@@ -146,7 +151,7 @@ iframe {
     color: #232324;
     font-size:30px;
     text-align: right;
-    top:70px;
+    top:50px;
     position: absolute;
     margin-left:1045px;
     font-family: 'Lato', sans-serif;
@@ -157,11 +162,12 @@ iframe {
     top:180px;
     margin-left:1090px;
     padding:15px;
-    font-size:30px;
+    font-size:22px;
     color: rgb(162, 21, 21);
     font-family: 'Oswald', sans-serif;
-    
-}
+    background-color: rgba(240, 226, 198, 0.5);
+
+}    
 /* end of sofiya Tabassum changes */
 
 
@@ -333,6 +339,6 @@ iframe {
     border-radius: 25px;
     cursor: pointer;
     border: 1px solid rgb(59, 58, 58);
- }
-/* hello */
+ }    
+
 /* end of sufiya Nishat changes */
